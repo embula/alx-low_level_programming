@@ -16,6 +16,5 @@ int main(void)
 	{
 		putchar(low);
 	}
-	printf("");
 	return (0);
 }
