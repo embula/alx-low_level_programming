@@ -16,6 +16,6 @@ int main(void)
 	{
 		putchar(low);
 	}
-	write(" ");
+	printf(" \t");
 	return (0);
 }
