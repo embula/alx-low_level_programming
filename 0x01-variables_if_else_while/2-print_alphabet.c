@@ -16,6 +16,6 @@ int main(void)
 	{
 		putchar(low);
 	}
-	putchar(" ");
+	write(" ");
 	return (0);
 }
